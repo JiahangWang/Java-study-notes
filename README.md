@@ -1,3 +1,3 @@
 # Java-study-notes
-# Some notes I wrote while studying java
-# Still processing
+## Some notes I wrote while studying java
+## Still processing
