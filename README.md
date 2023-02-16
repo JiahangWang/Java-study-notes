@@ -1,2 +1,2 @@
 # Java-study-notes
-# Some notes in studying java
+# Some notes I wrote while studying java
